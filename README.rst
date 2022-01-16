@@ -16,11 +16,13 @@ To install this Python package, use pip:
 To start fusionexport-server use the command below
 
 .. code-block:: shell
+
     start fusionexport.bat --config-file ./config.json
 
 config.json example 
 
 .. code-block:: json
+
     {
      "server": {
         "host": "0.0.0.0",
